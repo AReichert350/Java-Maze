@@ -14,7 +14,7 @@ Wilkin, Ben: Ben-Wilkin
 Harding, Ryan: 19hardingrt    
 
 ### Description: ###
-This project is a maze puzzle game created in COSC 3011 in the Spring 2021 semester. For more information on what the game is and how to play see: [User's Manual](https://github.com/AReichert350/Java-Maze/blob/main/docs/UsersManual.docx).
+This project is a maze puzzle game created in COSC 3011 (Introduction to Software Design) in the Spring 2021 semester. For more information on what the game is and how to play see: [User's Manual](https://github.com/AReichert350/Java-Maze/blob/main/docs/UsersManual.docx).
 
 ### How to Run: ###
 The easiest way to get up and running on Windows is to:
