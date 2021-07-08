@@ -24,4 +24,4 @@ The easiest way to get up and running on Windows is to:
 4. Navigate to the storage location of the extracted files.
 5. Once there, navigate to the src directory: "cd game" and "cd src".
 6. Run "javac Main.java".
-7. Run "java Main" (The program most likely will not find a maze file to load. Select "Open New File" and navigate to the input directory in the file explorer and choose a file.).
+7. Run "java Main" (The program most likely will not find a maze file to load. Select "Open New File" and navigate to the input directory in the file explorer and choose a file. Also note that the game may not display correctly on small monitors. This can be worked around by changing display scaling in Settings on Windows machines.).
